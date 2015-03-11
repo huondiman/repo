@@ -1,8 +1,8 @@
-Origin: Diman's repo
+Origin: ហួនឌីម៉េន  DimanLoveMey 
 Label: Huondiman repo for Khmer
 Suite: stable
-Version: 0.9
-Codename: dimanrepo
-Architectures: iphoneos-arm
+Version: 1.0
+Codename: Huondiman repo for Khmer
+Architectures: iphoneos-arms
 Components: main
-Description: Huondiman repo for Khmer
+Description: Welcome to Huondiman repo for Khmer
